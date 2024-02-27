@@ -10,7 +10,7 @@
 クラウド：AWS, GCP<br />
 1人でなんでもやる万屋エンジニア<br />
 - X：[そろ@万屋エンジニア](https://twitter.com/Soloware_)
-- コミュニティ運営：[🎭【Japalopers】開発駆動コミュニティ(DDC)🎭](http://japaloper.connpass.com)
+- コミュニティ運営：[🎭【Japalopers】開発駆動コミュニティ(DDC)🎭](http://japalopers.connpass.com)
 
 ## 👮‍♀️運営者👮‍♀️
 ### hogehoge
